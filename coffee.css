@@ -1,0 +1,356 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600&family=Dela+Gothic+One&family=Hubballi&family=Inspiration&family=League+Gothic&family=Lobster&family=Oswald:wght@200&family=Pacifico&family=Rubik+Wet+Paint&family=Send+Flowers&family=Smokum&display=swap');
+
+.parent{
+    height: 900px;
+    width: 100%;
+    
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+   
+    
+}
+a:hover{
+    
+    color:rgb(130, 236, 236);
+   
+}
+.logo{
+    height: 80px;
+    width:37%;
+
+border-radius: 147px;
+}
+.child1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 58px;
+    width: 100%;
+    font-size: medium;
+    color:white;
+    font-family: 'Dancing Script', cursive;
+    background-color: rgb(104, 54, 25);
+    padding: 10px;
+    position: fixed;
+    margin-top: 0px;
+}
+.child2{
+    height: 500px;
+    width:100%;
+    text-align: center;
+    padding-top: 77px;
+    
+}
+img.wallpaper{
+    height: 500px;
+    width: 100%;
+    border-radius: 0%;
+    margin-top: 0px;
+}
+img.wallpaper:hover{
+    height: 500px;
+    width: 100%;
+    border-radius: 0%;
+    opacity: 1;
+}
+.content1{
+    color: white;
+    margin-top: -350px;
+    font-size:x-large;
+    font-family: 'Dela Gothic One', cursive;
+   font-display: left;
+   margin-left: -561px;
+   padding: 20px;
+   
+}
+
+
+.child3{
+    height: 403px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+.child3c1{
+    width: 45%;
+    height: 250px;
+    padding: 20px;
+    align-items: center;
+}
+.child3c2{
+    align-items: center;
+}
+h1{
+    color: rgba(112, 33, 19, 0.904);
+    text-align: center;
+  font-weight: bolder;
+  font-family: 'Lobster', cursive;
+  font-size: xx-large;
+  
+}
+.child3para{
+    font-size: x-large;
+    font-family: 'Dancing Script', cursive;
+
+}
+.child3image{
+    justify-content: center;
+    height: 214px;
+    width: 250px;
+    padding: 50px;
+    position: sticky;
+    
+    
+}
+.child4{
+    height: 600px;
+    width:100%;
+    display: flex;
+    flex-wrap: wrap;
+    
+    padding: 41px;
+    background-color: rgb(207, 168, 106);
+
+
+}
+.child4font{
+    padding: 30px;
+    margin-top: 54px;
+
+}
+.gallery{
+    height: 196px;
+    width: 16%;
+   
+    background-color: rgb(95, 52, 28);
+    padding: 20px;
+    border: 1px;
+    border-radius: 40px;
+    margin-top: 20px;
+    
+}
+
+img{
+    height: 150px;
+    width: 100%;
+    border-radius: 40px;
+}
+.d1 img:hover {
+    height: 160px;
+    width: 105%;
+    border-radius: 40px;
+}
+.d2 img:hover {
+    height: 160px;
+    width: 105%;
+    border-radius: 40px;
+}
+.d3 img:hover {
+    height: 160px;
+    width: 105%;
+    border-radius: 40px;
+}
+.d4 img:hover {
+    height: 160px;
+    width: 105%;
+    border-radius: 40px;
+}
+.d5 img:hover {
+    height: 160px;
+    width: 105%;
+    border-radius: 40px;
+}
+.d5 img:hover {
+    height: 160px;
+    width: 105%;
+    border-radius: 40px;
+}
+.d6 img:hover {
+    height: 160px;
+    width: 105%;
+    border-radius: 40px;
+}
+.d7 img:hover {
+    height: 160px;
+    width: 105%;
+    border-radius: 40px;
+}
+.d8 img:hover {
+    height: 160px;
+    width: 105%;
+    border-radius: 40px;
+}
+.child5{
+    height: 356px;
+    width: 100%;
+    padding: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+h2{
+    font-family: 'Hubballi', cursive;
+    color: white;
+    text-align: center;
+}
+.boxchild5{
+    border: 2px solid black;
+    height: 250px;
+    width: 190px;
+    background-color: azure;
+    
+    padding: 50px;
+    border-radius: 131px;
+    text-align: center;
+    box-shadow: 5px 10px 8px 10px #888888;
+}
+.child5button{
+    margin-left: 0px;
+}
+textarea{
+    height: 53px;
+    width: 168px;
+}
+.child6{
+    height: 180px;
+    width: 100%;
+    background-color:rgb(95, 52, 28); 
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    
+    
+}
+.footer{
+    height: 100px;
+    width: 30%;
+    color: white;
+    font-size: medium;
+    padding: 50px;
+    
+}
+.childextra{
+  width: 100%;
+    height: 2177px;
+    background-color: rgb(92, 53, 26);
+    padding: 20px;
+   
+    
+   
+}
+.col{
+    height: 360px;
+    width: 100%;
+    display: flex;
+    border: black solid 0px;
+}
+.r1{
+    width: 50%;
+    padding-left: 20px;
+   
+}
+.r2{
+    width: 50%;
+    
+}
+.r3{
+    width: 50%;
+    padding-left: 20px;
+}
+.r4{
+    width: 50%;
+    
+}
+.r5{
+    width: 50%;
+    padding-left: 20px;
+}
+.r6{
+    width: 50%;
+}
+
+.extram1{
+    height: 287px;
+    width: 45%;
+    border-radius: 145px;
+    
+}
+
+.ii2{
+    margin-left: 185px;
+}
+.ii4{
+    margin-left: 184px; 
+}
+.ii6{
+    margin-left: 184px; 
+}
+
+.extra{
+   
+    width: 45%;
+    color: white;
+    font-family: 'Send Flowers', cursive;
+    font-size: large;
+}
+
+.p1{
+    margin-top: 132px;
+    margin-left:-204px;
+}
+.p2{
+    margin-top: 137px;
+    margin-left: 72px;
+}
+.p3{
+    margin-top: 135px;
+    margin-left:-204px;
+}
+.p4{
+    margin-top: 135px;
+    margin-left: 72px;
+}
+.p5{
+    margin-top: 135px;
+    margin-left:-204px; 
+}
+.p6{
+    margin-top: 135px;
+    margin-left: 72px;  
+}
+.extrah{
+    color: rgb(206, 122, 11);
+    font-family: 'Dancing Script', cursive;
+}
+span{
+    color: rgb(228, 217, 217);
+    font-weight: bolder;
+}
+.l1,.l3,.l5{
+   padding-right: 354px;
+}
+.l2,.l4,.l6{
+    padding-left: 46px;
+}
+.extrabutton{
+    height: 40px;
+    width: 90px;
+    border-radius: 70px;
+    background-color: white;
+  
+
+}
+.extrabutton:hover{
+    height: 40px;
+    width: 90px;
+    border-radius: 70px;
+    background-color: rgb(219, 143, 43);
+    
+
+}
+
+
